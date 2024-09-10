@@ -1,7 +1,7 @@
 Portafolio Profesional en Ingeniería de Software
 Este repositorio contiene el código fuente de mi portafolio personal de ingeniería de software. El objetivo es mostrar proyectos relevantes, mis habilidades técnicas y experiencia laboral.
 
-Ver Portafolio en Vivo
+
 
 Tecnologías Utilizadas
 HTML5: Estructura semántica de la página.
